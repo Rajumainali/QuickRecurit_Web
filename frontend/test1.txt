@@ -1,0 +1,64 @@
+Bachelor's degree in Computer Science, Artificial Intelligence, Data Science, or a related field (Master's degree is a plus)Basic understanding of supervised and unsupervised learning algorithmsFamiliarity with REST APIs, Git version control, and Linux-based environmentsStrong problem-solving skills and eagerness to learn new technologies. Required Skills    Proficiency in Python programming    Knowledge of data preprocessing and feature engineering    Basic understanding of neural networks and ML algorithms    Experience with data visualization libraries    Familiarity with cloud-based AI services (AWS, GCP, or Azure)    Proficiency with libraries such as NumPy, Pandas, Matplotlib, and scikit-learn    Understanding of deep learning frameworks such as TensorFlow or PyTorchPreferred Skills    Experience with Natural Language Processing (NLP) frameworks    Knowledge of computer vision libraries (OpenCV, Detectron2, YOLO)    Experience with Docker and containerized AI deployments    Familiarity with MLOps practices    Exposure to large language models (LLMs) and fine-tuning techniques
+[
+  {
+    'Matching Score': 89.29,
+    'Resume Name': 'trainee_data_science_cv.docx',
+    Strength: 'Good Match',
+    Summary: {
+      Education: 'Bachelor of Science in Computer Science, Tribhuvan University, 2020 – 2024',
+      Experience: 'Student Performance Analysis: Analyzed student grades dataset using Python; Created visualizations to identify patterns in performance. Sales Dashboard (Excel & Power BI): Built a basic sales dashboard for a small dataset; Showed sales trends and top products.',
+      'Professional Summary': 'Motivated and enthusiastic recent graduate seeking a Data Science traineeship. Eager to apply foundational knowledge in data analysis, programming, and machine learning while gaining practical industry experience.',
+      Skills: 'Python, R (beginner), SQL, Pandas, NumPy, Excel, Matplotlib, Seaborn, Power BI (basic), Scikit-learn (beginner), Git, Jupyter Notebook'
+    }
+  },
+  {
+    'Matching Score': 87.82,
+    'Resume Name': 'new_test_resume.docx',
+    Strength: 'Good Match',
+    Summary: {
+      Education: 'Bachelor of Science in Computer Science\n' +
+        'Tribhuvan University, Kathmandu, Nepal\n' +
+        '2019-2023 GPA: 3.7/4.0',
+      Experience: 'Intern AI Developer\n' +
+        'Tech Innovations Pvt. Ltd., Kathmandu, Nepal June 2023 - August 2023\n' +
+        'Assisted in developing machine learning models for image classification.\n' +
+        'Collaborated with senior engineers to preprocess and analyze datasets.',
+      'Professional Summary': 'Motivated Junior AI Engineer with a strong foundation in machine learning and Python programming. Eager to contribute to innovative AI projects while developing expertise in neural networks and data processing.',
+      Skills: 'Python, TensorFlow, Scikit-learn, Numpy, Pandas, PyTorch, NLP, OpenCV, Jupyter Notebook, Git, English, Nepali, Teamwork, Problem-Solving'
+    }
+  },
+  {
+    'Matching Score': 77.74,
+    'Resume Name': 'test_resume.pdf',
+    Strength: 'Good Match',
+    Summary: {
+      Education: 'Bachelor of Science in Computer Science, Tribhuvan University, Kathmandu, Nepal, 2019-2023',
+      Experience: 'Intern AI Developer, Tech Innovations Pvt. Ltd., Kathmandu, Nepal, June 2023 - August 2023, – Assisted in developing machine learning models for image classiﬁcation., – Collaborated with senior engineers to preprocess and analyze datasets.',
+      'Professional Summary': 'Motivated Junior AI Engineer with a strong foundation in machine learning and Python programming. Eager to contribute to innovative AI projects while developing expertise in neural networks and data processing.',
+      Skills: 'Python, TensorFlow, Scikit-learn, Jupyter Notebook, Git, English, Nepali, Teamwork, Problem-Solving'
+    }
+  },
+  {
+    'Matching Score': 73.82,
+    'Resume Name': 'test_resume.pdf',
+    Strength: 'Fair Match',
+    Summary: {
+      Education: 'Bachelor of Science in Computer Science, Tribhuvan University, Kathmandu, Nepal, 2019-2023',
+      Experience: 'Intern AI Developer, Tech Innovations Pvt. Ltd., Kathmandu, Nepal, June 2023 - August 2023, Assisted in developing machine learning models for image classiﬁcation., Collaborated with senior engineers to preprocess and analyze datasets.',
+      'Professional Summary': 'Motivated Junior AI Engineer with a strong foundation in machine learning and Python programming. Eager to contribute to innovative AI projects while developing expertise in neural networks and data processing.',
+      Skills: 'Python, TensorFlow, Scikit-learn, Jupyter Notebook, Git, English, Nepali, Teamwork, Problem-Solving'
+    }
+  },
+  {
+    'Matching Score': 39.98,
+    'Resume Name': 'low_quality_data_science_cv (1).docx',
+    Strength: 'Poor Match',
+    Summary: {
+      Education: 'Bsc running in college, subject computer related, not finished yet',
+      Experience: '- Tried Kaggle dataset but not completed.\n' +
+        '- Made chart in excel for class assignment.',
+      'Professional Summary': 'I am seeking a job in the computer field. I have some experience with Python and am eager to learn about data science. My aim is to work and gain experience, although I have limited project experience.',
+      Skills: 'python, excel, google, machine learning (basic understanding), sql (basic understanding)'
+    }
+  }
+]

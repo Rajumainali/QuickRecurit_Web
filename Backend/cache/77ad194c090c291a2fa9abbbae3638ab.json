@@ -1,0 +1,16 @@
+{
+  "Professional Summary": "Dedicated and detail-oriented Software Tester with 3+ years of experience ensuring high-quality software delivery through comprehensive testing strategies. Skilled in manual and automated testing, creating test plans, and identifying and resolving bugs. Proven ability to work in agile environments and contribute to product success.",
+  "Skills": "Manual Testing, Automated Testing (Selenium, Postman), Bug Tracking (JIRA, Bugzilla), Test Case Design & Execution, Regression & Smoke Testing, Agile & Scrum Methodologies, API Testing, Performance Testing, SDLC & STLC, SQL, HTML, Java",
+  "Experience": [
+    "Software Tester | Tech Solutions Pvt. Ltd., Kathmandu | Jan 2022 - Present",
+    "- Conducted functional and regression testing for web applications using Selenium.",
+    "- Collaborated with developers and product teams to design and review test plans.",
+    "- Documented over 500 test cases and reported bugs in JIRA with detailed steps and screenshots.",
+    "- Led user acceptance testing (UAT) sessions with clients.",
+    "Junior QA Engineer | CodeHub Nepal, Lalitpur | Jun 2020 - Dec 2021",
+    "- Created and executed test cases based on business requirements.",
+    "- Performed integration and system testing on client projects.",
+    "- Assisted in automation test script development using Selenium WebDriver."
+  ],
+  "Education": "Bachelor of Information Technology (BIT)\nPurbanchal University, Nepal | 2016 - 2020"
+}
